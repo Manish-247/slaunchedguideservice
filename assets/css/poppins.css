@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+/* Shared typography: keeps every page on a single, fast-loading type system. */
+html body,
+button,
+input,
+select,
+textarea {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.price,
+.sig,
+.kicker,
+.facts b,
+.card b,
+.plan b,
+.lakes strong {
+  font-family: 'Poppins', sans-serif !important;
+  letter-spacing: -0.04em;
+}
